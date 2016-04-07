@@ -5,6 +5,6 @@ package Chess;
  */
 public class Tiles {
 
-    
+
 
 }
